@@ -1,0 +1,53 @@
+Rebuild in godot or something. This terminal game is cool, but not production worthy.
+
+add graphics
+
+add weapon shop
+
+add armor 
+
+add save function (save user profile to external file)
+
+add multiplayer?
+
+add structures to explore
+
+add item durability
+
+add factions and reputation for each faction
+Factions:
+Medieval European
+This faction consists of knights, archers, foot soldiers, Gaurds, peasants, Lords, Kings, Queens, Princes, and Princesses.
+
+Peasants have various jobs that may give them improved stats.
+
+Knights sacrifice a small amount of both endurance and speed for an annoyingly robust armor value and attack damage. A very skilled enemy.
+
+Archers will attack at range if your reputation with the Europeans is low enough, if you get close enough it's not hard to dispatch of them. A fairly weak enemy in melee.
+
+Soldiers are very well rounded, but not usually very skilled. An average enemy.
+
+Guards are essentially bored soldiers with heavy armor and (usually) larger weapons. They do more damage than a standard Soldier, but not as much as a skilled Knight. They will be a bit slower. 
+
+Peasants will generally try to avoid combat, if threatened many of them will defend themselves with various usually improvised weapons that tend to follow whatever their job is. (farmers might have a sickle). A very weak enemy.
+
+Lords are Knights that have been gifted their own lands. They may wear a little less armor than a Knight, but they will make up for it with increased skill. A difficult enemy.
+
+Typically the King will be old and slower than a Knight, he won't wear armor unless he expects a fight in advance. If you manage to take him down, your reputation with the Medieval themed faction will be irrevocably lowered. You will be pursued and attacked on sight.
+
+The Queen is similar to the king except that she may be faster and less skilled with a sword.
+
+Princes and Princesses will just be a slightly weaker version of their parents.
+
+
+
+Norse Viking-like warriors 
+
+Rare Oriental Merchant
+
+Animals 
+
+Rare "Dragon" or Dinosaur
+
+
+add secret boss battle
